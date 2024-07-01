@@ -1,5 +1,3 @@
-[![JetBrains team project](http://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-
 **Kara is NOT SUPPORTED**
 
 ## Kara Web Framework
@@ -8,17 +6,11 @@ Kara is a web framework for the JVM written in [Kotlin](http://kotlinlang.org/).
 
 The article [*Type-safe Web with Kotlin*](http://jaxenter.com/type-safe-web-with-kotlin-106187.html) by Andrey Breslav  illustrates the benefits of such a framework.
 
-Check out [karaframework.com](http://karaframework.com/) to get a quick overview of the project. (Caution: Some contents are outdated.)
-
 ## Authors
 
-The project was started by [Tiny Mission](http://tinymission.com), a small web and mobile development company hoping to use Kara as a help to work faster and write better code. 
+The project originated with Tiny Mission, a compact web and mobile development firm that sought to leverage Kara to accelerate work and enhance coding quality.
 
-Currently, it is actively developed by [JetBrains](http://jetbrains.com), the company behind Kotlin.
-
-## Contributing
-
-There's plenty of work left to do to make Kara a first class framework, and we'd welcome contributions. Contact andy at tinymission.com to get involved.
+Subsequently, it was taken up for active development and later discontinued by JetBrains, the creators of Kotlin.
 
 ## License
 
